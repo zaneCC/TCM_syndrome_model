@@ -1,0 +1,3 @@
+
+TYPE_F1_PRE = 1
+TYPE_AUC = 2
